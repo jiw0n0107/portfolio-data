@@ -1,0 +1,11 @@
+user_name,timestamp,action
+kate,2025-05-01 08:00,login
+john,2025-05-01 08:10,click
+kate,2025-05-02 12:00,click
+emma,2025-05-02 14:30,logout
+john,2025-05-03 09:45,login
+daniel,2025-05-03 17:00,click
+kate,2025-05-04 08:20,logout
+emma,2025-05-04 10:00,login
+mina,2025-05-05 15:10,click
+kate,2025-05-06 11:00,logout
